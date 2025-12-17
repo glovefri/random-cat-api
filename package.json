@@ -1,0 +1,15 @@
+{
+  "name": "random-cat-api",
+  "version": "1.0.0",
+  "description": "A simple API that serves random cat images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["cat", "api", "random", "images"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
