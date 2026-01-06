@@ -4,7 +4,7 @@ A simple REST API that serves random cat images.
 
 ## 🚀 Live Demo
 
-**Deployed at**: https://random-cat-api-xxx.onrender.com
+**Deployed at**: https://random-cat-api.onrender.com/
 
 ## Run Locally
 
