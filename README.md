@@ -2,13 +2,13 @@
 
 A simple REST API that serves random cat images.
 
-## Build Locally
+## 🚀 Live Demo
+
+**Deployed at**: https://random-cat-api-xxx.onrender.com
+
+## Run Locally
+
+### With Docker
 ```bash
-# Install dependencies
-npm install
-
-# Run the app
-npm start
+docker run -p 3000:3000 gloris/gatito
 ```
-
-Visit http://localhost:3000
