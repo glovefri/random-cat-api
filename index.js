@@ -18,7 +18,7 @@ const getHTML = (imageUrl) => `
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Random Cat Image EDITED</title>
+  <title>Random Cat Image</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -78,7 +78,7 @@ const getHTML = (imageUrl) => `
 </head>
 <body>
   <div class="container">
-    <h1>🐱 Random Cat Image</h1>
+    <h1>🐱 Random Cat Image EDITED</h1>
     <img src="${imageUrl}" alt="Random cute cat" onerror="this.src='https://cataas.com/cat?${Date.now()}'">
     <br>
     <button onclick="location.reload()">Get Another Cat!</button>
