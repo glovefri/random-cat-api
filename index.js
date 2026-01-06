@@ -18,7 +18,7 @@ const getHTML = (imageUrl) => `
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Random Cat Image</title>
+  <title>Random Cat Image EDITED</title>
   <style>
     body {
       font-family: Arial, sans-serif;
